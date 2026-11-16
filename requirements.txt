@@ -1,0 +1,8 @@
+bearlibterminal
+esper
+tcod
+scipy
+numpy
+networkx
+opensimplex
+noise
